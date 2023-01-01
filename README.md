@@ -3,7 +3,7 @@ Hi! My name is Pierre 👋
 # Current situation
 
 - Living in Tokyo, Japan 🗾 
-- Working as an AI research engineer at 株式会社MI-6 👨‍💻
+- Working as an AI research engineer at [MI-6](https://mi-6.co.jp/) 👨‍💻
 
 # About my skills 
 
