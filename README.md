@@ -15,10 +15,10 @@ Hi! My name is Pierre 👋
 
 # Academic record
 
-- **10/2020~09/2022**: Master program at *Keio University* (Japan)
+- **10/2020~09/2022**: Master program at **Keio University** (Japan)
   - Kei KOBAYASHI's laboratory.
   - Major: Gaussian Processes, Bayesian Optimization.
-- **10/2018~10/2020**: General Engineering program at *Ecole Centrale de Nantes* (France)
+- **10/2018~10/2020**: General Engineering program at **Ecole Centrale de Nantes** (France)
   - First year: general engineering (algorithmic, continuum mechanics, manufacturing).
   - Second year: major in Applied Mathematics, Machine Learning (Deep Learning and Bayesian Statistics for the major part).
   - Diploma equivalent to a Master degree.
