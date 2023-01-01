@@ -1,4 +1,4 @@
-Hi! My name is Pierre 👋
+Hi, my name is Pierre 👋
 Let's get in touch!
 
 # Current situation
