@@ -7,7 +7,7 @@ Hi! My name is Pierre 👋
 
 # About my skills 
 
-- AI research focused on Bayesian statistics, but particularly:
+- AI research focused on Bayesian statistics, specifically:
   - Gaussian Processes and Bayesian Optimization
   - Python is the coding language I use the most
   - ... but still have some knowledge in C/C++ as well (cf. [this repo](https://github.com/pjpollot/game_of_life))
