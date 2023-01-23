@@ -34,4 +34,10 @@ Let's get in touch!
   - Read books and watch series.
   - well, living in Japan basically.
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pjpollot)](https://github.com/anuraghazra/github-readme-stats)
+<div style="text-align:center;">
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pjpollot&show_icons=true&theme=tokyonight)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pjpollot&theme=tokyonight&exclude_repo=android_jumping_game&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
