@@ -33,3 +33,5 @@ Let's get in touch!
 - 後者と共にに日本語の勉強でしょうねぇ (*lazy translation:* learning japanese):
   - Read books and watch series.
   - well, living in Japan basically.
+  
+![Top languages](https://github-readme-stats.vercel.app/api?username=pjpollot&count_private=true)
