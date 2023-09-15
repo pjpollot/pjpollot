@@ -3,9 +3,22 @@
     src: url(fonts/Caveat-VariableFont_wght.ttf);
 }
 
+:root {
+    /* Colors: https://www.color-hex.com/color-palette/5543 */
+    --cafe-dark-grey: #6d6666;
+    --cafe-grey: #b4adad;
+    --cafe-bright: #eedab5;
+    --cafe-brown: #855b5b;
+    --cafe-dark-brown: #362323;
+}
+
 * {
     margin: 0;
     font-family: Caveat, 'Courier New', Courier, monospace;
+}
+
+body {
+    background-color: var(--cafe-brown);
 }
 
 .underline {
@@ -27,12 +40,14 @@ header {
     display: flex;
     flex-direction: column;
     align-items: center;
+    background-image: url(imgs/intro_img.JPG);
+    background-repeat: no-repeat;
+    padding-bottom: 400px;
 }
 
 #title {
     width: 100%;
-    height: 300px;
-    background-image: url(imgs/intro_img.JPG);
+    height: 150px;
     background-repeat: no-repeat;
     display: flex;
     text-align: center;
@@ -56,13 +71,15 @@ header {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding-top: 20px;
+    padding: 20px 0 30px 0;
+    background-color: var(--cafe-bright);
+    width: 70%;
 }
 
 #intro-img img {
     width: 140px;
     border-radius: 50% 50% 50% 50%;
-    box-shadow: 20px -10px navajowhite;
+    box-shadow: 20px -10px var(--cafe-dark-brown);
 }
 
 #intro-text {
@@ -87,6 +104,7 @@ main section {
     border: 1px solid black;
     width: 400px;
     padding: 10px;
+    background-color: whitesmoke;
 }
 
 .section-img {
@@ -111,7 +129,7 @@ main i {
 
 footer {
     margin-top: 20px;
-    background-color: black;
+    background-color: var(--cafe-dark-brown);
     color: white;
     padding: 10px;
 }
