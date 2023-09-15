@@ -36,6 +36,22 @@
     color: red;
 }
 
+/* Intro */
+
+#intro {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+    background-color: #F1E9DB;
+}
+
+#intro-img img {
+    width: 140px;
+    border-radius: 50% 50% 50% 50%;
+}
+
 /* main */
 
 main {
@@ -56,6 +72,8 @@ main section {
 
 .section-img {
     text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 .section-img img {
