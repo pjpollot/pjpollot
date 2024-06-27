@@ -4,7 +4,7 @@ Let's get in touch!
 # Current situation
 
 - Living in Tokyo, Japan. 🗾 
-- Working as an AI research engineer at [MI-6](https://mi-6.co.jp/). 👨‍💻
+- Working as an AI engineer at [10ANTZ inc.](https://10antz.co.jp/). 👨‍💻
 
 # About my skills 
 
@@ -30,11 +30,13 @@ Let's get in touch!
   - Enhance my communication skills.
   - Meeting new and interesting people is always fun!
 - Learn how to *survive* in Japan despite the language barrier.
-- 後者と共にに日本語の勉強でしょうねぇ (*lazy translation:* learning japanese):
-  - Read books and watch series.
+  - Reading books and watching series.
   - well, living in Japan basically.
-  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pjpollot&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pjpollot&theme=tokyonight&exclude_repo=android_jumping_game&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+# External links
+
+- LinkedIn profile: https://www.linkedin.com/in/pierre-pollot-b53081313/
