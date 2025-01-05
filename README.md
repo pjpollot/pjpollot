@@ -3,7 +3,7 @@ Let's get in touch!
 
 # Current situation
 
-- Living in Tokyo, Japan. 🗾 
+- Living in the region of Tokyo, Japan. 🗾 
 - Working as an AI engineer at [10ANTZ inc.](https://10antz.co.jp/). 👨‍💻
 
 # About my skills 
@@ -12,7 +12,7 @@ Let's get in touch!
   - Gaussian Processes and Bayesian Optimization.
   - Python is the coding language I use the most.
   - ... but still have some knowledge in C/C++ as well (cf. [this repo](https://github.com/pjpollot/game_of_life)).
-- Trilingual: French (native language), English (TOEIC 925), Japanese (JLPT N2). 🌏
+- Trilingual: French (native language), English (TOEIC 925), Japanese (JLPT N1). 🌏
 
 # Academic record
 
@@ -31,7 +31,7 @@ Let's get in touch!
   - Meeting new and interesting people is always fun!
 - Learn how to *survive* in Japan despite the language barrier.
   - Reading books and watching series.
-  - well, living in Japan basically.
+  - Doing play in Japanese.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pjpollot&show_icons=true&theme=tokyonight)
 
